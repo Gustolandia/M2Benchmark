@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: whitesmoke;
+}
+
+img {
+    width: 144px;
+    height: 104px;
+
+}
+
+.img-class {
+    max-width: 20% !important;
+}
+
+.navclass {
+    background-color: rgb(24, 24, 24) !important;
+}
+
